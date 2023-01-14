@@ -7,7 +7,7 @@ Skill set:
           
 
 🤓 I'm currently learning:
-TypeScript
+React js and Redux
 🤔 I want to learn:
 Next.js
 Outside of coding I enjoy:
