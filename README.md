@@ -12,3 +12,7 @@ React js and Redux
 Next.js
 Outside of coding I enjoy:
 Playing video games 🎮
+
+<p>
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+</p>
