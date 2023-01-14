@@ -5,17 +5,17 @@ I’m a Front End Developer experienced in building responsive, accessible websi
 ## Skill:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/react-original.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/react-original.svg" height="auto" width="50">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/javascript-plain.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/javascript-plain.svg" height="auto" width="50">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/css3-original.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/css3-original.svg" height="auto" width="50">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/sass-original.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/sass-original.svg" height="auto" width="50">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/html5-original.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/html5-original.svg" height="auto" width="50">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/bootstrap-plain.svg" height="auto" width="65">
+<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/bootstrap-plain.svg" height="auto" width="50">
 
 </p>
 
