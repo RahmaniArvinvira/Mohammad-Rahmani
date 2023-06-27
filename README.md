@@ -6,9 +6,9 @@ I’m a Front End Developer experienced in building responsive, accessible websi
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/react-original.svg" height="auto" width="50">
+<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="auto" width="50">
 <img src="https://static.invertase.io/assets/social/firebase-logo.png" height="auto" width="50">
 <img src="https://www.frontendmag.com/wp-content/uploads/2023/01/material-ui-logo.png" height="auto" width="50">
-<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="auto" width="50">
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/javascript-plain.svg" height="auto" width="50">
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/bootstrap-plain.svg" height="auto" width="50">
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/sass-original.svg" height="auto" width="50">
